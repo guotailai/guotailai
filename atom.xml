@@ -6,7 +6,7 @@
   <link href="https://guotailai.github.io/atom.xml" rel="self"/>
   
   <link href="https://guotailai.github.io/"/>
-  <updated>2022-02-06T02:06:47.268Z</updated>
+  <updated>2022-02-07T02:51:59.843Z</updated>
   <id>https://guotailai.github.io/</id>
   
   <author>
@@ -17,18 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="https://guotailai.github.io/2022/02/07/%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://guotailai.github.io/2022/02/07/%E5%8D%9A%E5%AE%A2/</id>
+    <published>2022-02-07T02:51:59.843Z</published>
+    <updated>2022-02-07T02:51:59.843Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://guotailai.github.io/2022/02/06/hello-world/"/>
     <id>https://guotailai.github.io/2022/02/06/hello-world/</id>
     <published>2022-02-06T02:06:47.268Z</published>
-    <updated>2022-02-06T02:06:47.268Z</updated>
+    <updated>2022-02-07T02:59:00.026Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>我的第一篇博客网站。</p><p>希望大家多支持。</p><p>该网站比较稳定，除非是平台炸了，不然网址不会失效。</p><p><img src="https://p3.toutiaoimg.com/large/tos-cn-i-0022/afc026918e1141ccb5a0488ce850dc27"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;我的第一篇博客网站。&lt;/p&gt;
+&lt;p&gt;希望大家多支持。&lt;/p&gt;
+&lt;p&gt;该网站比较稳定，除非是平台炸了，不然网址不会失效。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://p3.toutiaoimg.com/large/tos-cn-i-0022/afc026918e1141</summary>
       
     
     
